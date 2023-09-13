@@ -1,0 +1,28 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Bulls and Cows/*
+!/Bulls and Cows/task/
+/Bulls and Cows/task/*
+!/Bulls and Cows/task/src
+
+# Project exclude paths
+/Topics/Math library/Pow/out/
+/Topics/Math library/Pow/out/production/classes/
+/Topics/Math library/The angle between vectors/out/
+/Topics/Math library/The angle between vectors/out/production/classes/
+/Topics/Random/Gaussian random numbers/out/
+/Topics/Random/Gaussian random numbers/out/production/classes/
+/Topics/StringBuilder/Create an email/out/
+/Topics/StringBuilder/Create an email/out/production/classes/
+/Topics/StringBuilder/Love of big letters/out/
+/Topics/StringBuilder/Love of big letters/out/production/classes/
